@@ -1,0 +1,26 @@
+﻿-
+MSSQL DATABASE
+
+1. CREATE DATABASE youtube;
+
+2.create table dbo.Department(
+DepartmentId int identity(1,1),
+DepartmentName nvarchar(500));
+
+insert into dbo.Department values('Finance');
+insert into dbo.Department values('Support');
+
+select * from dbo.Department
+-------------
+
+3.create table dbo.Student(
+StudentId int identity(1,1),
+StudentName nvarchar(500),
+Department nvarchar(500),
+Registerdate datetime,
+PhotoFileName nvarchar(500)
+ );
+ insert into dbo.Student values('Jhone','Engineering Faculty',getdate(),'studentphoto.png') ;
+ insert into dbo.Student values('Kenneddy','Engineering Faculty',getdate(),'studentphoto.png') ;
+
+select * from dbo.Student
