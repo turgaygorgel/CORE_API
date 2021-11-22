@@ -15,7 +15,7 @@ namespace WebApplication1.Controllers
 {
 
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class StudentController : ControllerBase
     {
         private readonly IConfiguration _configuration;
@@ -65,7 +65,7 @@ namespace WebApplication1.Controllers
                             ";
 
             DataTable table = new DataTable();
-            string sqlDataSource = _configuration.GetConnectionString("StudentAppCon");
+            string sqlDataSource = _configuration.GetConnectionString("MSSQLConnection");
             SqlDataReader myReader;
             using (SqlConnection myCon = new SqlConnection(sqlDataSource))
             {
@@ -83,11 +83,11 @@ namespace WebApplication1.Controllers
                 }
             }
 
-            return new JsonResult("Added Successfully");
+            return new JsonResult("Added Successfully, Subscribe and Like the channel plase");
         }
 
 
-        [HttpPut]//http://localhost:49146/api/student/1
+        [HttpPut]//http://localhost:49146/api/student
         public JsonResult Put(Student std)
         {
             string query = @"
@@ -100,7 +100,7 @@ namespace WebApplication1.Controllers
                             ";
 
             DataTable table = new DataTable();
-            string sqlDataSource = _configuration.GetConnectionString("StudentAppCon");
+            string sqlDataSource = _configuration.GetConnectionString("MSSQLConnection");
             SqlDataReader myReader;
             using (SqlConnection myCon = new SqlConnection(sqlDataSource))
             {
@@ -119,10 +119,10 @@ namespace WebApplication1.Controllers
                 }
             }
 
-            return new JsonResult("Updated Successfully");
+            return new JsonResult("Updated Successfully, Subscribe and Like the channel plase");
         }
 
-        [HttpDelete("{id}")]//http://localhost:49146/api/student/1
+        [HttpDelete("{id}")]//http://localhost:49146/api/student
         public JsonResult Delete(int id)
         {
             string query = @"
@@ -131,7 +131,7 @@ namespace WebApplication1.Controllers
                             ";
 
             DataTable table = new DataTable();
-            string sqlDataSource = _configuration.GetConnectionString("StudentAppCon");
+            string sqlDataSource = _configuration.GetConnectionString("MSSQLConnection");
             SqlDataReader myReader;
             using (SqlConnection myCon = new SqlConnection(sqlDataSource))
             {
@@ -147,7 +147,7 @@ namespace WebApplication1.Controllers
                 }
             }
 
-            return new JsonResult("Deleted Successfully");
+            return new JsonResult("Deleted Successfully, Subscribe and Like the channel plase");
         }
 
 

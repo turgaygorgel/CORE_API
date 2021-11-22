@@ -73,7 +73,7 @@ namespace WebApplication1.Controllers
                 }
             }
 
-            return new JsonResult("Added Successfully");
+            return new JsonResult("Added Successfully, Subscribe and Like the channel plase");
         }
 
 
@@ -103,7 +103,7 @@ namespace WebApplication1.Controllers
                 }
             }
 
-            return new JsonResult("Updated Successfully");
+            return new JsonResult("Updated Successfully, Subscribe and Like the channel plase");
         }
 
         [HttpDelete("{id}")]
@@ -131,7 +131,7 @@ namespace WebApplication1.Controllers
                 }
             }
 
-            return new JsonResult("Deleted Successfully");
+            return new JsonResult("Deleted Successfully, Subscribe and Like the channel plase");
         }
 
 

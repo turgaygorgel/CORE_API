@@ -120,3 +120,33 @@ D:\YAZILIM\NET CORE\API\youvideo\WebApplication1\WebApplication1\obj\Debug\netco
 D:\YAZILIM\NET CORE\API\youvideo\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 D:\YAZILIM\NET CORE\API\youvideo\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 D:\YAZILIM\NET CORE\API\youvideo\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\YAZILIM\GITHUP\turgaygorgel\CORE_API\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
